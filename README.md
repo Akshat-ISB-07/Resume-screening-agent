@@ -29,7 +29,13 @@ TalentFilter reduces the marginal cost of screening a candidate to **near zero**
 
 > **Upload PDFs → Claude evaluates → Bucketed results appear in seconds**
 
-![Demo Screenshot](docs/demo-screenshot.png)
+<img width="960" height="937" alt="Screenshot 2026-05-06 at 4 06 24 PM" src="https://github.com/user-attachments/assets/7067f648-a813-4b4f-8ed2-5345126286a2" />
+
+ <img width="1284" height="946" alt="Screenshot 2026-05-06 at 4 05 54 PM" src="https://github.com/user-attachments/assets/76a5dcbc-f641-4a37-8c50-ef1309325de8" />
+
+
+
+
 
 *Screenshot placeholder — drag 100 PDFs onto the UI, define your weighted rubric, hit Screen Candidates, and watch Claude evaluate each resume in real time with a live progress bar.*
 
