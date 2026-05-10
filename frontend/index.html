@@ -535,6 +535,10 @@ function showResults(results,title){
     groups[b].push(r);
   });
 
+  Object.keys(groups).forEach(k=>{
+    groups[k].sort((a,b)=>Number(b.score) - Number(a.score));
+  });
+
   const grid=document.getElementById("bucketsGrid");
   grid.innerHTML="";
   Object.entries(BUCKETS).forEach(([name,meta])=>{

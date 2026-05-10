@@ -237,4 +237,193 @@ resume(
     ],
 )
 
+# ── Resume 4: Nina Kapoor — Founders Office Lead ─────────────────────────
+resume(
+    "sample_resumes/nina_kapoor.pdf",
+    name="Nina Kapoor",
+    title="Founders Office Lead",
+    contact="nina.kapoor@email.com  |  linkedin.com/in/ninakapoor  |  (415) 555-0673",
+    summary=(
+        "Founders Office leader with 7+ years driving strategic initiatives at high-growth startups. "
+        "Expert at partnering with founders to align GTM, operations, and investor communications. "
+        "Track record of leading cross-functional programs that accelerated revenue and scaled leadership processes."
+    ),
+    experience=[
+        {
+            "role": "Founders Office Lead",
+            "company": "PilotAI",
+            "period": "2022 - Present",
+            "bullets": [
+                "Partnered with the CEO and CFO on quarterly growth strategy, contributing to a 3x pipeline increase.",
+                "Built the executive operating cadence across GTM, product, finance, and people teams.",
+                "Owned investor deck updates and board preparation for 12 board meetings.",
+                "Launched a cross-functional OKR framework adopted by 5 teams, improving alignment and execution velocity.",
+            ],
+        },
+        {
+            "role": "Strategy & Operations Manager",
+            "company": "Bolt Health",
+            "period": "2019 - 2022",
+            "bullets": [
+                "Designed go-to-market playbooks for the enterprise sales team, increasing win rate 18%.",
+                "Developed pricing scenario models and presented recommendations to the executive team.",
+                "Led a 10-person launch squad to enter two new verticals within 6 months.",
+            ],
+        },
+        {
+            "role": "Business Operations Analyst",
+            "company": "Dropbox",
+            "period": "2017 - 2019",
+            "bullets": [
+                "Owned metrics tracking dashboards for customer success and revenue operations.",
+                "Coordinated planning for company-wide growth experiments and post-mortems.",
+            ],
+        },
+    ],
+    education=[
+        {"degree": "MS, Management Science & Engineering", "school": "Stanford University", "year": "2017"},
+        {"degree": "BA, Economics", "school": "Pomona College", "year": "2015"},
+    ],
+    skills=[
+        "Founder Partnership", "Strategic Planning", "Board Materials", "GTM Strategy",
+        "OKR Design", "Cross-functional Leadership", "Investor Communications", "Financial Modeling",
+        "Program Management", "Operational Scaling", "Data-driven Decision Making",
+    ],
+)
+
+# ── Resume 5: Diego Alvarez — Founders Office Strategy ───────────────────
+resume(
+    "sample_resumes/diego_alvarez.pdf",
+    name="Diego Alvarez",
+    title="Founders Office Strategy",
+    contact="diego.alvarez@email.com  |  linkedin.com/in/diegoalvarez  |  (323) 555-1428",
+    summary=(
+        "Strategy partner who helps founders connect customer insight to GTM and operational priorities. "
+        "Skilled at translating market signals into scalable growth programs across sales, product, and finance. "
+        "Known for building repeatable growth playbooks in early and growth-stage environments."
+    ),
+    experience=[
+        {
+            "role": "Founders Office Strategy",
+            "company": "Tempo Labs",
+            "period": "2023 - Present",
+            "bullets": [
+                "Created a new go-to-market readiness framework that reduced launch time by 30%.",
+                "Synthesised customer research, marketing analytics, and field feedback for the CEO's weekly growth review.",
+                "Coordinated strategic initiatives across Sales, Marketing, and Product leadership.",
+            ],
+        },
+        {
+            "role": "Senior Strategy Analyst",
+            "company": "Mercury",
+            "period": "2020 - 2023",
+            "bullets": [
+                "Built executive-ready market briefs and recommendation memos that shaped product investment choices.",
+                "Worked with finance to model revenue scenarios for new SMB and mid-market segments.",
+                "Managed strategic vendor partnerships to support international expansion plans.",
+            ],
+        },
+    ],
+    education=[
+        {"degree": "MBA", "school": "Tuck School of Business at Dartmouth", "year": "2020"},
+        {"degree": "BS, Political Science", "school": "USC", "year": "2014"},
+    ],
+    skills=[
+        "Market Strategy", "Competitive Analysis", "Executive Briefs", "Cross-functional Alignment",
+        "Revenue Operations", "Financial Planning", "Partner Strategy", "Presentation Design",
+        "Stakeholder Engagement", "Process Optimization", "Launch Readiness",
+    ],
+)
+
+# ── Resume 6: Lina Brooks — Founders Office Program Manager ─────────────
+resume(
+    "sample_resumes/lina_brooks.pdf",
+    name="Lina Brooks",
+    title="Founders Office Program Manager",
+    contact="lina.brooks@email.com  |  linkedin.com/in/linabrooks  |  (646) 555-0904",
+    summary=(
+        "Program manager focused on operationalizing founder priorities and scaling leadership alignment. "
+        "Experienced in building program infrastructure, running executive forums, and tracking cross-team deliverables."
+    ),
+    experience=[
+        {
+            "role": "Founders Office Program Manager",
+            "company": "Helix Ventures",
+            "period": "2022 - Present",
+            "bullets": [
+                "Launched the company's first founder-led strategic review process, aligning 6 teams around quarterly priorities.",
+                "Maintained a centralized action tracker for 24 executive-level initiatives.",
+                "Coached senior leaders on program discipline and meeting effectiveness.",
+            ],
+        },
+        {
+            "role": "Senior Operations Associate",
+            "company": "Brex",
+            "period": "2020 - 2022",
+            "bullets": [
+                "Supported sales and finance operations for a cross-border business unit.",
+                "Built reporting frameworks for GTM performance and new account onboarding.",
+            ],
+        },
+        {
+            "role": "Operations Coordinator",
+            "company": "WeWork",
+            "period": "2018 - 2020",
+            "bullets": [
+                "Managed weekly operations cadences and internal stakeholder communications.",
+                "Tracked progress on product launch milestones for workspace offerings.",
+            ],
+        },
+    ],
+    education=[
+        {"degree": "BS, Industrial Engineering", "school": "Georgia Tech", "year": "2018"},
+    ],
+    skills=[
+        "Program Management", "Executive Operations", "Cross-functional Coordination", "Meeting Design",
+        "Action Tracking", "Operational Dashboards", "Change Management", "Program Launch",
+        "Stakeholder Communication", "Project Planning", "Process Documentation",
+    ],
+)
+
+# ── Resume 7: Mia Chen — Growth Strategy Partner ─────────────────────────
+resume(
+    "sample_resumes/mia_chen.pdf",
+    name="Mia Chen",
+    title="Growth Strategy Partner",
+    contact="mia.chen@email.com  |  linkedin.com/in/miachen  |  (212) 555-0779",
+    summary=(
+        "Growth strategy partner with experience advising founders on customer acquisition, retention, and pricing. "
+        "Expert in building revenue playbooks and aligning marketing, product, and sales for repeatable growth."
+    ),
+    experience=[
+        {
+            "role": "Growth Strategy Partner",
+            "company": "Gather Labs",
+            "period": "2023 - Present",
+            "bullets": [
+                "Developed a growth playbook for founder-led GTM experiments, improving payback by 22%.",
+                "Partnered with marketing and product teams on three cross-functional launches in under 9 months.",
+                "Standardized funnel reporting and growth hypotheses for the executive team.",
+            ],
+        },
+        {
+            "role": "Business Strategy Lead",
+            "company": "Coinbase",
+            "period": "2020 - 2023",
+            "bullets": [
+                "Led customer segmentation and monetization analysis for new product initiatives.",
+                "Presented growth model updates to senior execs and helped prioritize the top 5 revenue bets.",
+            ],
+        },
+    ],
+    education=[
+        {"degree": "BS, Finance", "school": "NYU Stern", "year": "2020"},
+    ],
+    skills=[
+        "Growth Strategy", "Funnel Optimization", "Pricing Analysis", "Customer Segmentation",
+        "Cross-functional GTM", "Revenue Modeling", "Experiment Design", "Executive Collaboration",
+        "Go-to-Market", "Analytics", "Stakeholder Influence",
+    ],
+)
+
 print("\nAll sample resumes created in sample_resumes/")
